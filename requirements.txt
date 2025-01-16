@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+streamlit
+google-cloud-aiplatform 
+python-dotenv
+requests
+python-decouple
+pydantic
